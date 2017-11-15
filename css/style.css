@@ -118,11 +118,11 @@ p {
     border-radius: 13px;
 }
 .icon {
-margin: 0;
-position: absolute;
-top: 50%;
-left: 50%;
-margin-right: -50%;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
 }
 
 /* Columns */
